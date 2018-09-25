@@ -31,4 +31,4 @@ function vincitore (){
     }
 }
 
-var vincitore = vincitore();
+vincitore();
